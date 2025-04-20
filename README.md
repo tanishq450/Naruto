@@ -1,1 +1,1 @@
-# Naruto
+# Naruto chatbot and series analyzer
